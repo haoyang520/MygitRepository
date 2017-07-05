@@ -1,2 +1,3 @@
 Hi,I am liying
 this is my frist day to learn git.
+1
