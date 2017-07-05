@@ -4,5 +4,4 @@ Git has a mutable index called stage.
 Git trancks changes.
 Creating a new branch AND quick hello.
 Creating a branch with a no-ff way,you know.
-hahah,you knoe.
 Congralutions,you have fixed this bug.
